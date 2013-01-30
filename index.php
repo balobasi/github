@@ -5,6 +5,8 @@ include_once("$g4[path]/lib/latest.lib.php");
 $g4['title'] = ""; 
 include_once("./_head.php");
 ?>
+
+
 <div id="s1" >
 	<img src="<?=$g4['path']?>/img/banner01_01.png" width=675 height=200 alt="" />
 	<img src="<?=$g4['path']?>/img/banner01_02.png" width=675 height=200 alt="" />
@@ -12,6 +14,7 @@ include_once("./_head.php");
 	<img src="<?=$g4['path']?>/img/banner01_04.png" width=675 height=200 alt="" />
 	<img src="<?=$g4['path']?>/img/bannar02_01.png" width=675 height=200 alt="" />
 	<img src="<?=$g4['path']?>/img/bannar02_03.png" width=675 height=200 alt="" />
+	
 </div>
 <div class="h05"></div>
 <div id="pack_event">
